@@ -1,0 +1,13 @@
+C:\Users\Mykola\source\repos\Day3\Day3\bin\Release\netcoreapp3.1\AdventOfCodeDay3.exe
+C:\Users\Mykola\source\repos\Day3\Day3\bin\Release\netcoreapp3.1\AdventOfCodeDay3.deps.json
+C:\Users\Mykola\source\repos\Day3\Day3\bin\Release\netcoreapp3.1\AdventOfCodeDay3.runtimeconfig.json
+C:\Users\Mykola\source\repos\Day3\Day3\bin\Release\netcoreapp3.1\AdventOfCodeDay3.runtimeconfig.dev.json
+C:\Users\Mykola\source\repos\Day3\Day3\bin\Release\netcoreapp3.1\AdventOfCodeDay3.dll
+C:\Users\Mykola\source\repos\Day3\Day3\bin\Release\netcoreapp3.1\AdventOfCodeDay3.pdb
+C:\Users\Mykola\source\repos\Day3\Day3\obj\Release\netcoreapp3.1\AdventOfCodeDay3.csprojAssemblyReference.cache
+C:\Users\Mykola\source\repos\Day3\Day3\obj\Release\netcoreapp3.1\AdventOfCodeDay3.AssemblyInfoInputs.cache
+C:\Users\Mykola\source\repos\Day3\Day3\obj\Release\netcoreapp3.1\AdventOfCodeDay3.AssemblyInfo.cs
+C:\Users\Mykola\source\repos\Day3\Day3\obj\Release\netcoreapp3.1\AdventOfCodeDay3.csproj.CoreCompileInputs.cache
+C:\Users\Mykola\source\repos\Day3\Day3\obj\Release\netcoreapp3.1\AdventOfCodeDay3.dll
+C:\Users\Mykola\source\repos\Day3\Day3\obj\Release\netcoreapp3.1\AdventOfCodeDay3.pdb
+C:\Users\Mykola\source\repos\Day3\Day3\obj\Release\netcoreapp3.1\AdventOfCodeDay3.genruntimeconfig.cache
